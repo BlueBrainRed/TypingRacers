@@ -4,7 +4,7 @@ import time
 import random
 import pyfiglet
 
-# Définition de l'ASCII car (tel que fourni)
+# Définition de l'ASCII car
 CAR_ASCII = "ō͡≡o˞_"
 
 
